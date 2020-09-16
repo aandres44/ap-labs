@@ -1,0 +1,2145 @@
+Pacman Packages Report
+######################
+Installed packages : 432
+Upgraded packages  : 646
+Removed packages   : 47
+Current installed  : 385
+
+
+List of packages
+--------------------------------------------
+- Package name         : iana-etc
+   - Install date      : [2020-04-09T18:35:11+0000]
+   - Last update date  : [2020-09-07T16:27:39-0500]
+   - How many updates  : 9
+   - Removal date      : -
+- Package name         : filesystem
+   - Install date      : [2020-04-09T18:35:11+0000]
+   - Last update date  : [2020-08-25T10:22:38-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : linux-api-headers
+   - Install date      : [2020-04-09T18:35:11+0000]
+   - Last update date  : [2020-09-02T09:36:15-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : tzdata
+   - Install date      : [2020-04-09T18:35:12+0000]
+   - Last update date  : [2020-05-05T16:42:21+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : glibc
+   - Install date      : [2020-04-09T18:35:12+0000]
+   - Last update date  : [2020-09-02T09:36:15-0500]
+   - How many updates  : 6
+   - Removal date      : -
+- Package name         : gcc-libs
+   - Install date      : [2020-04-09T18:35:12+0000]
+   - Last update date  : [2020-09-02T09:36:17-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : ncurses
+   - Install date      : [2020-04-09T18:35:13+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : readline
+   - Install date      : [2020-04-09T18:35:13+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : bash
+   - Install date      : [2020-04-09T18:35:13+0000]
+   - Last update date  : [2020-08-20T11:23:55-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : attr
+   - Install date      : [2020-04-09T18:35:13+0000]
+   - Last update date  : [2020-05-14T15:44:39-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : acl
+   - Install date      : [2020-04-09T18:35:13+0000]
+   - Last update date  : [2020-05-14T15:44:39-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : gmp
+   - Install date      : [2020-04-09T18:35:13+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libcap
+   - Install date      : [2020-04-09T18:35:13+0000]
+   - Last update date  : [2020-08-28T16:30:08-0500]
+   - How many updates  : 7
+   - Removal date      : -
+- Package name         : gdbm
+   - Install date      : [2020-04-09T18:35:13+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : db
+   - Install date      : [2020-04-09T18:35:13+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : perl
+   - Install date      : [2020-04-09T18:35:14+0000]
+   - Last update date  : [2020-06-25T10:24:00-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : openssl
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : [2020-05-26T11:03:08-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : coreutils
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : zlib
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : xz
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : bzip2
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libseccomp
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : file
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : [2020-06-25T10:24:01-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : findutils
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : mpfr
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : [2020-08-20T11:23:55-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : gawk
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : [2020-05-05T16:42:24+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : pcre
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : grep
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libgpg-error
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : [2020-08-26T11:04:33-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : libgcrypt
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : [2020-07-08T12:21:14-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : lz4
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : systemd-libs
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : [2020-09-03T09:36:27-0500]
+   - How many updates  : 13
+   - Removal date      : -
+- Package name         : procps-ng
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : [2020-05-26T11:03:08-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : sed
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : tar
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libffi
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : [2020-04-14T16:14:18+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libutil-linux
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : [2020-09-03T09:36:27-0500]
+   - How many updates  : 5
+   - Removal date      : -
+- Package name         : glib2
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : [2020-08-25T10:22:42-0500]
+   - How many updates  : 5
+   - Removal date      : -
+- Package name         : libunistring
+   - Install date      : [2020-04-09T18:35:15+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : icu
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-05-05T16:42:24+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxml2
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-05-05T16:42:24+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libcroco
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-05-22T13:01:10-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : gettext
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-08-28T15:39:59-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : hwids
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-08-19T09:46:13-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : kmod
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : pciutils
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-06-08T13:47:59-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : psmisc
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : cracklib
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : e2fsprogs
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-05-14T15:44:39-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libsasl
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-05-14T15:44:39-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libldap
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-06-25T10:24:00-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : keyutils
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-07-09T16:08:29-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : krb5
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-06-15T10:18:31-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : libtirpc
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-04-17T22:48:41+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : pambase
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-08-19T09:46:13-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : pam
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-08-19T09:46:14-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libcap-ng
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-09-03T09:36:27-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : audit
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : shadow
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-07-17T11:40:50-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : util-linux
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-09-03T09:36:27-0500]
+   - How many updates  : 5
+   - Removal date      : -
+- Package name         : less
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : gzip
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : licenses
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : [2020-05-05T16:42:25+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : expat
+   - Install date      : [2020-04-09T18:35:16+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : zstd
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-05-26T11:03:08-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libarchive
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-05-22T13:01:09-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libtasn1
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libp11-kit
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-08-25T10:22:42-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : device-mapper
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-06-04T10:52:27-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : popt
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-07-08T12:21:14-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : json-c
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-07-30T13:49:27-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : argon2
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-05-14T15:44:39-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : cryptsetup
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-09-07T16:27:39-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : dbus
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-07-08T12:21:14-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : libmnl
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libnftnl
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-06-16T10:55:00-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libnl
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libusb
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libpcap
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libnfnetlink
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-05-20T09:42:27-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libnetfilter_conntrack
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : iptables
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-06-09T22:35:29-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : kbd
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-08-17T18:12:17-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libidn2
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libelf
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-06-25T10:24:01-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : pcre2
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : systemd
+   - Install date      : [2020-04-09T18:35:17+0000]
+   - Last update date  : [2020-09-03T09:36:28-0500]
+   - How many updates  : 13
+   - Removal date      : -
+- Package name         : p11-kit
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-08-25T10:22:42-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : ca-certificates-utils
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-07-29T09:41:24-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : ca-certificates-mozilla
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-08-25T10:22:42-0500]
+   - How many updates  : 8
+   - Removal date      : -
+- Package name         : ca-certificates
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-07-29T09:41:24-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libssh2
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libpsl
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-08-28T16:30:08-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libnghttp2
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-06-09T22:35:29-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : curl
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-08-25T10:22:42-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : npth
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libksba
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-08-31T12:08:38-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : libassuan
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libsecret
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-05-05T16:42:25+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : pinentry
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : nettle
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-05-14T15:44:40-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : gnutls
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-09-07T16:27:40-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : sqlite
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-08-26T11:04:33-0500]
+   - How many updates  : 5
+   - Removal date      : -
+- Package name         : gnupg
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-09-04T14:42:10-0500]
+   - How many updates  : 5
+   - Removal date      : -
+- Package name         : gpgme
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-07-17T11:40:50-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : pacman-mirrorlist
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-08-03T11:21:54-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : archlinux-keyring
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-08-21T11:08:04-0500]
+   - How many updates  : 5
+   - Removal date      : -
+- Package name         : pacman
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-07-14T13:37:11-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : systemd-sysvcompat
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-09-03T09:36:28-0500]
+   - How many updates  : 13
+   - Removal date      : -
+- Package name         : iputils
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-08-18T10:45:25-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : iproute2
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-08-10T11:13:24-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : base
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : mkinitcpio-busybox
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-09-04T14:42:10-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : diffutils
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : mkinitcpio
+   - Install date      : [2020-04-09T18:35:18+0000]
+   - Last update date  : [2020-07-17T11:40:50-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : linux
+   - Install date      : [2020-04-09T18:35:19+0000]
+   - Last update date  : [2020-09-07T16:27:41-0500]
+   - How many updates  : 19
+   - Removal date      : -
+- Package name         : emacs-nox
+   - Install date      : [2020-04-09T18:35:23+0000]
+   - Last update date  : [2020-08-25T10:22:43-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : libedit
+   - Install date      : [2020-04-09T18:35:23+0000]
+   - Last update date  : [2020-08-31T12:08:38-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : dnssec-anchors
+   - Install date      : [2020-04-09T18:35:23+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : ldns
+   - Install date      : [2020-04-09T18:35:23+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : openssh
+   - Install date      : [2020-04-09T18:35:23+0000]
+   - Last update date  : [2020-08-31T12:08:38-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : linux-firmware
+   - Install date      : [2020-04-09T18:35:25+0000]
+   - Last update date  : [2020-08-25T10:22:47-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : grub
+   - Install date      : [2020-04-09T18:39:41+0000]
+   - Last update date  : [2020-08-03T11:21:54-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : efivar
+   - Install date      : [2020-04-09T18:39:41+0000]
+   - Last update date  : [2020-05-26T11:03:08-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : efibootmgr
+   - Install date      : [2020-04-09T18:39:41+0000]
+   - Last update date  : [2020-04-14T16:14:18+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : sudo
+   - Install date      : [2020-04-09T19:00:29+0000]
+   - Last update date  : [2020-07-29T09:41:28-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : bridge-utils
+   - Install date      : [2020-04-09T19:00:29+0000]
+   - Last update date  : [2020-07-08T12:21:14-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libtool
+   - Install date      : [2020-04-09T19:00:29+0000]
+   - Last update date  : [2020-08-25T10:22:44-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : runc
+   - Install date      : [2020-04-09T19:00:29+0000]
+   - Last update date  : [2020-08-07T10:20:09-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : containerd
+   - Install date      : [2020-04-09T19:00:29+0000]
+   - Last update date  : [2020-08-17T18:12:17-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : docker
+   - Install date      : [2020-04-09T19:00:30+0000]
+   - Last update date  : [2020-07-20T09:44:02-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : libevent
+   - Install date      : [2020-04-09T19:00:30+0000]
+   - Last update date  : [2020-07-17T11:40:50-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libutempter
+   - Install date      : [2020-04-09T19:00:30+0000]
+   - Last update date  : [2020-07-08T12:21:14-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : tmux
+   - Install date      : [2020-04-09T19:00:30+0000]
+   - Last update date  : [2020-05-05T16:42:29+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : perl-error
+   - Install date      : [2020-04-09T19:00:30+0000]
+   - Last update date  : [2020-06-25T10:24:05-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : perl-timedate
+   - Install date      : [2020-04-09T19:00:30+0000]
+   - Last update date  : [2020-06-25T10:24:05-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : perl-mailtools
+   - Install date      : [2020-04-09T19:00:30+0000]
+   - Last update date  : [2020-06-25T10:24:05-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : git
+   - Install date      : [2020-04-09T19:00:30+0000]
+   - Last update date  : [2020-07-29T09:41:24-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : zsh
+   - Install date      : [2020-04-09T19:04:36+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : packer
+   - Install date      : [2020-04-09T19:17:09+0000]
+   - Last update date  : [2020-08-28T16:30:09-0500]
+   - How many updates  : 5
+   - Removal date      : -
+- Package name         : python-msgpack
+   - Install date      : [2020-06-10T00:33:29-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:18:03-0500]
+- Package name         : python-cachecontrol
+   - Install date      : [2020-06-10T00:33:29-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:18:03-0500]
+- Package name         : python-colorama
+   - Install date      : [2020-04-09T19:49:57+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-contextlib2
+   - Install date      : [2020-06-10T00:33:29-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:18:03-0500]
+- Package name         : python-distlib
+   - Install date      : [2020-04-09T19:49:57+0000]
+   - Last update date  : [2020-07-08T12:21:16-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : python-distro
+   - Install date      : [2020-06-10T00:33:29-0500]
+   - Last update date  : [2020-05-05T16:42:29+0000]
+   - How many updates  : 1
+   - Removal date      : [2020-06-10T00:18:03-0500]
+- Package name         : python-webencodings
+   - Install date      : [2020-06-10T00:33:29-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:18:03-0500]
+- Package name         : python-html5lib
+   - Install date      : [2020-06-10T00:33:29-0500]
+   - Last update date  : [2020-07-08T12:21:16-0500]
+   - How many updates  : 1
+   - Removal date      : [2020-06-10T00:18:03-0500]
+- Package name         : python-toml
+   - Install date      : [2020-06-10T00:33:29-0500]
+   - Last update date  : [2020-05-14T15:44:43-0500]
+   - How many updates  : 1
+   - Removal date      : [2020-06-10T00:18:03-0500]
+- Package name         : python-pep517
+   - Install date      : [2020-06-10T00:33:29-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:18:03-0500]
+- Package name         : python-progress
+   - Install date      : [2020-06-10T00:33:29-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:18:03-0500]
+- Package name         : python-pytoml
+   - Install date      : [2020-06-10T00:33:29-0500]
+   - Last update date  : [2020-07-08T12:21:16-0500]
+   - How many updates  : 1
+   - Removal date      : [2020-06-10T00:18:03-0500]
+- Package name         : python-retrying
+   - Install date      : [2020-06-10T00:33:29-0500]
+   - Last update date  : [2020-05-20T09:42:36-0500]
+   - How many updates  : 1
+   - Removal date      : [2020-06-10T00:18:03-0500]
+- Package name         : python-pip
+   - Install date      : [2020-06-10T00:33:29-0500]
+   - Last update date  : [2020-06-29T11:03:08-0500]
+   - How many updates  : 2
+   - Removal date      : [2020-06-10T00:18:03-0500]
+- Package name         : kubectl
+   - Install date      : [2020-04-10T15:50:16+0000]
+   - Last update date  : [2020-09-04T14:42:10-0500]
+   - How many updates  : 5
+   - Removal date      : -
+- Package name         : task
+   - Install date      : [2020-04-10T18:11:34+0000]
+   - Last update date  : [2020-07-09T16:08:30-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : kubectx
+   - Install date      : [2020-04-10T18:18:48+0000]
+   - Last update date  : [2020-07-08T12:21:14-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : docker-compose
+   - Install date      : [2020-07-20T16:39:14-0500]
+   - Last update date  : [2020-09-07T16:27:40-0500]
+   - How many updates  : 3
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : python
+   - Install date      : -
+   - Last update date  : [2020-09-07T16:27:39-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : python-cffi
+   - Install date      : -
+   - Last update date  : [2020-08-17T18:12:18-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : python-filelock
+   - Install date      : [2020-04-14T16:17:58+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-virtualenv
+   - Install date      : [2020-04-14T16:17:58+0000]
+   - Last update date  : [2020-06-25T10:24:05-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : python-dateutil
+   - Install date      : [2020-04-14T16:27:26+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-jmespath
+   - Install date      : [2020-04-14T16:27:26+0000]
+   - Last update date  : [2020-05-20T09:42:36-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : python-docutils
+   - Install date      : [2020-04-14T16:27:26+0000]
+   - Last update date  : [2020-05-05T16:42:22+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : python-botocore
+   - Install date      : [2020-04-14T16:27:26+0000]
+   - Last update date  : [2020-09-04T14:42:09-0500]
+   - How many updates  : 12
+   - Removal date      : -
+- Package name         : python-pyasn1
+   - Install date      : [2020-04-14T16:27:26+0000]
+   - Last update date  : [2020-05-20T09:42:36-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : python-rsa
+   - Install date      : [2020-04-14T16:27:26+0000]
+   - Last update date  : [2020-06-15T10:18:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : python-s3transfer
+   - Install date      : [2020-04-14T16:27:26+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : aws-cli
+   - Install date      : [2020-04-14T16:27:27+0000]
+   - Last update date  : [2020-09-04T14:42:09-0500]
+   - How many updates  : 12
+   - Removal date      : -
+- Package name         : htop
+   - Install date      : [2020-04-14T16:36:15+0000]
+   - Last update date  : [2020-09-03T09:36:27-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : helm
+   - Install date      : [2020-04-14T20:32:28+0000]
+   - Last update date  : [2020-09-01T11:47:23-0500]
+   - How many updates  : 7
+   - Removal date      : -
+- Package name         : terraform
+   - Install date      : [2020-04-14T20:34:25+0000]
+   - Last update date  : [2020-08-28T15:40:01-0500]
+   - How many updates  : 7
+   - Removal date      : -
+- Package name         : libpng
+   - Install date      : [2020-04-14T20:36:16+0000]
+   - Last update date  : [2020-07-09T16:08:30-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : graphite
+   - Install date      : [2020-04-14T20:36:16+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : harfbuzz
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : [2020-08-28T16:30:08-0500]
+   - How many updates  : 9
+   - Removal date      : -
+- Package name         : freetype2
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : [2020-05-14T15:44:40-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : fontconfig
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : [2020-06-26T11:55:01-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : libice
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libsm
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : [2020-05-14T15:44:42-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : xcb-proto
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libxdmcp
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : [2020-05-20T09:42:27-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxau
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : [2020-05-20T09:42:27-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxcb
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : xorgproto
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : [2020-05-05T16:42:24+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libx11
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : [2020-08-26T11:04:33-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : libxt
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxext
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : [2020-05-20T09:42:27-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxpm
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libjpeg-turbo
+   - Install date      : [2020-04-14T20:36:17+0000]
+   - Last update date  : [2020-08-28T16:30:08-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : libtiff
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : giflib
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-22T13:01:10-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libwebp
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : gd
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : shared-mime-info
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : gdk-pixbuf2
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-07-15T10:55:38-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libdatrie
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libthai
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxrender
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-20T09:42:27-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : pixman
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-05T16:42:24+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : lzo
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : cairo
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-20T09:42:27-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxft
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : fribidi
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-07-08T12:21:14-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : pango
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-08-21T11:08:07-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : librsvg
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-07-08T12:21:14-0500]
+   - How many updates  : 5
+   - Removal date      : -
+- Package name         : libxmu
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxaw
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libdaemon
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : avahi
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libcups
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-08-25T10:22:44-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : jbig2dec
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : lcms2
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-06-17T17:49:28-0500]
+   - How many updates  : 5
+   - Removal date      : -
+- Package name         : run-parts
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libpaper
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : ijs
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : openjpeg2
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libidn
+   - Install date      : [2020-04-14T20:36:18+0000]
+   - Last update date  : [2020-07-29T09:41:24-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : ghostscript
+   - Install date      : [2020-04-14T20:36:19+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : netpbm
+   - Install date      : [2020-04-14T20:36:19+0000]
+   - Last update date  : [2020-07-08T12:21:15-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : gts
+   - Install date      : [2020-04-14T20:36:19+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : gsfonts
+   - Install date      : [2020-04-14T20:36:19+0000]
+   - Last update date  : [2020-05-20T09:42:32-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : graphviz
+   - Install date      : [2020-04-14T20:36:19+0000]
+   - Last update date  : [2020-08-28T16:30:08-0500]
+   - How many updates  : 8
+   - Removal date      : -
+- Package name         : texinfo
+   - Install date      : [2020-04-14T20:48:26+0000]
+   - Last update date  : [2020-05-05T16:42:29+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : gc
+   - Install date      : [2020-04-14T20:48:26+0000]
+   - Last update date  : [2020-05-20T09:42:29-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : guile
+   - Install date      : [2020-04-14T20:48:26+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : make
+   - Install date      : [2020-04-14T20:48:26+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libmicrohttpd
+   - Install date      : [2020-04-14T20:56:00+0000]
+   - Last update date  : [2020-07-01T13:22:36-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : elfutils
+   - Install date      : [2020-04-14T20:56:00+0000]
+   - Last update date  : [2020-06-25T10:24:01-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : binutils
+   - Install date      : [2020-04-14T20:56:00+0000]
+   - Last update date  : [2020-09-02T09:36:17-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : libmpc
+   - Install date      : [2020-04-14T20:56:00+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : gcc
+   - Install date      : [2020-04-14T20:56:02+0000]
+   - Last update date  : [2020-09-02T09:36:18-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : nload
+   - Install date      : [2020-04-14T20:56:59+0000]
+   - Last update date  : [2020-07-09T16:08:30-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libssh
+   - Install date      : [2020-04-14T21:02:17+0000]
+   - Last update date  : [2020-08-26T11:04:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : msgpack-c
+   - Install date      : [2020-04-14T21:02:18+0000]
+   - Last update date  : [2020-06-08T13:47:59-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : tmate
+   - Install date      : [2020-04-14T21:02:18+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : lua
+   - Install date      : [2020-04-14T22:17:21+0000]
+   - Last update date  : [2020-08-06T10:26:12-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : nmap
+   - Install date      : [2020-04-14T22:17:21+0000]
+   - Last update date  : [2020-08-06T10:26:12-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : groff
+   - Install date      : [2020-04-15T21:25:49+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-urllib3
+   - Install date      : -
+   - Last update date  : [2020-07-23T11:07:19-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : unzip
+   - Install date      : [2020-04-20T22:59:07+0000]
+   - Last update date  : [2020-05-05T16:42:29+0000]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libyaml
+   - Install date      : -
+   - Last update date  : [2020-06-04T10:52:30-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : python-cryptography
+   - Install date      : -
+   - Last update date  : [2020-08-28T16:30:09-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : python-importlib-metadata
+   - Install date      : -
+   - Last update date  : [2020-06-17T17:49:28-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : m4
+   - Install date      : [2020-05-05T16:44:02+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : autoconf
+   - Install date      : [2020-05-05T16:44:02+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : automake
+   - Install date      : [2020-05-05T16:44:02+0000]
+   - Last update date  : [2020-06-10T10:28:36-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : bison
+   - Install date      : [2020-05-05T16:44:02+0000]
+   - Last update date  : [2020-06-25T10:24:01-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : fakeroot
+   - Install date      : [2020-05-05T16:44:02+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : flex
+   - Install date      : [2020-05-05T16:44:02+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : patch
+   - Install date      : [2020-05-05T16:44:02+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : pkgconf
+   - Install date      : [2020-05-05T16:44:02+0000]
+   - Last update date  : [2020-06-08T13:47:59-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : which
+   - Install date      : [2020-05-05T16:44:02+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : wget
+   - Install date      : [2020-05-05T16:44:02+0000]
+   - Last update date  : [2020-05-14T15:44:43-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : yajl
+   - Install date      : [2020-05-05T16:44:02+0000]
+   - Last update date  : [2020-05-20T09:42:37-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : package-query
+   - Install date      : [2020-05-05T16:44:58+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : yaourt
+   - Install date      : [2020-05-05T16:45:11+0000]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : go
+   - Install date      : [2020-08-07T10:29:47-0500]
+   - Last update date  : [2020-08-07T10:20:09-0500]
+   - How many updates  : 5
+   - Removal date      : [2020-08-07T12:48:29-0500]
+- Package name         : eksctl
+   - Install date      : [2020-05-05T17:01:14+0000]
+   - Last update date  : [2020-08-25T10:24:38-0500]
+   - How many updates  : 8
+   - Removal date      : -
+- Package name         : ntp
+   - Install date      : [2020-05-06T15:11:55-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-05-15T16:28:20-0500]
+- Package name         : postgresql-libs
+   - Install date      : [2020-05-12T11:55:58-0500]
+   - Last update date  : [2020-08-25T10:22:47-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : llvm-libs
+   - Install date      : [2020-05-12T11:55:58-0500]
+   - Last update date  : [2020-08-28T16:30:08-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : postgresql
+   - Install date      : [2020-05-12T11:55:59-0500]
+   - Last update date  : [2020-08-25T10:22:48-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : libuv
+   - Install date      : [2020-05-12T12:30:10-0500]
+   - Last update date  : [2020-08-25T10:22:44-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : c-ares
+   - Install date      : [2020-05-12T12:30:10-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : nodejs
+   - Install date      : [2020-05-12T12:30:10-0500]
+   - Last update date  : [2020-08-28T15:40:00-0500]
+   - How many updates  : 7
+   - Removal date      : -
+- Package name         : semver
+   - Install date      : [2020-05-12T12:30:45-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : node-gyp
+   - Install date      : [2020-05-12T12:30:45-0500]
+   - Last update date  : [2020-09-07T16:27:41-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : npm
+   - Install date      : [2020-05-12T12:30:46-0500]
+   - Last update date  : [2020-08-18T10:45:25-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : nspr
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-08-25T10:22:47-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : nss
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-08-25T10:22:47-0500]
+   - How many updates  : 6
+   - Removal date      : -
+- Package name         : libxss
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : atk
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libxfixes
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxcursor
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxinerama
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxrandr
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxi
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libepoxy
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : dconf
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libxcomposite
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxdamage
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxtst
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : at-spi2-core
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-09-07T16:27:39-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : at-spi2-atk
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : wayland
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : xkeyboard-config
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-06-25T10:24:06-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : libxkbcommon
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : hicolor-icon-theme
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : gtk-update-icon-cache
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-09-07T16:27:40-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : adwaita-icon-theme
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : json-glib
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : wayland-protocols
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : desktop-file-utils
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-06-25T10:24:01-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libpciaccess
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libdrm
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-27T11:38:16-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxxf86vm
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libxshmfence
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libomxil-bellagio
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libunwind
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:33-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : lm_sensors
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-05-20T09:42:35-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libglvnd
+   - Install date      : [2020-05-12T12:35:59-0500]
+   - Last update date  : [2020-06-29T11:03:08-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : mesa
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : [2020-09-04T14:42:10-0500]
+   - How many updates  : 11
+   - Removal date      : -
+- Package name         : cantarell-fonts
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libgusb
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : [2020-08-04T12:56:58-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : js60
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : polkit
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : [2020-08-05T09:46:24-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libgudev
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : [2020-05-22T13:01:09-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : colord
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : [2020-05-22T13:01:10-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libproxy
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : [2020-06-25T10:24:04-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : adobe-source-code-pro-fonts
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : [2020-05-22T13:01:06-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : gsettings-desktop-schemas
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : glib-networking
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : [2020-06-09T22:35:29-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : brotli
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libsoup
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : rest
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libogg
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libvorbis
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : [2020-07-08T12:21:14-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : alsa-topology-conf
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : [2020-06-11T12:53:27-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : alsa-ucm-conf
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : [2020-06-17T17:49:28-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : alsa-lib
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : [2020-07-09T16:08:29-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : tdb
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : sound-theme-freedesktop
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : [2020-05-20T09:42:36-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libcanberra
+   - Install date      : [2020-05-12T12:36:00-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : iso-codes
+   - Install date      : [2020-05-12T12:36:01-0500]
+   - Last update date  : [2020-06-15T10:18:31-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : gtk3
+   - Install date      : [2020-05-12T12:36:01-0500]
+   - Last update date  : [2020-09-07T16:27:40-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : typescript
+   - Install date      : [2020-05-12T12:36:01-0500]
+   - Last update date  : [2020-08-21T11:08:07-0500]
+   - How many updates  : 6
+   - Removal date      : -
+- Package name         : oniguruma
+   - Install date      : [2020-05-12T12:36:01-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : jq
+   - Install date      : [2020-05-12T12:36:01-0500]
+   - Last update date  : [2020-09-04T14:42:10-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : aws-azure-login
+   - Install date      : [2020-05-12T12:46:49-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-appdirs
+   - Install date      : -
+   - Last update date  : [2020-05-14T15:44:43-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : python-pynacl
+   - Install date      : -
+   - Last update date  : [2020-08-26T11:04:33-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : python-setuptools
+   - Install date      : -
+   - Last update date  : [2020-09-07T16:27:40-0500]
+   - How many updates  : 11
+   - Removal date      : -
+- Package name         : python-paramiko
+   - Install date      : -
+   - Last update date  : [2020-08-28T16:30:09-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : python-pygments
+   - Install date      : [2020-05-19T17:51:58-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : python-markdown
+   - Install date      : [2020-05-19T17:51:58-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : python-werkzeug
+   - Install date      : [2020-05-19T17:51:58-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : python-markupsafe
+   - Install date      : [2020-05-19T17:51:58-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : python-jinja
+   - Install date      : [2020-05-19T17:51:58-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : python-itsdangerous
+   - Install date      : [2020-05-19T17:51:58-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : python-click
+   - Install date      : [2020-07-20T16:39:14-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : python-flask
+   - Install date      : [2020-05-19T17:51:58-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : python-path-and-address
+   - Install date      : [2020-05-19T17:52:03-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : python-grip
+   - Install date      : [2020-05-19T17:52:08-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : python-packaging
+   - Install date      : -
+   - Last update date  : [2020-05-20T09:42:36-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : python-ordered-set
+   - Install date      : -
+   - Last update date  : [2020-07-29T09:41:28-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : python-chardet
+   - Install date      : -
+   - Last update date  : [2020-05-20T09:42:36-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : python-ply
+   - Install date      : -
+   - Last update date  : [2020-05-20T09:42:36-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : python-six
+   - Install date      : -
+   - Last update date  : [2020-05-26T11:03:09-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : apr
+   - Install date      : [2020-05-27T12:00:31-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : apr-util
+   - Install date      : [2020-05-27T12:00:31-0500]
+   - Last update date  : [2020-08-25T10:22:41-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : apache-tools
+   - Install date      : [2020-05-27T12:00:54-0500]
+   - Last update date  : [2020-08-07T10:20:53-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : ix
+   - Install date      : [2020-05-27T13:55:23-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : ispell
+   - Install date      : [2020-05-28T12:21:15-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : nodejs-gitlab-ci-lint
+   - Install date      : [2020-05-28T13:54:51-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : youtube-dl
+   - Install date      : [2020-06-01T14:51:26-0500]
+   - Last update date  : [2020-09-07T16:27:42-0500]
+   - How many updates  : 5
+   - Removal date      : -
+- Package name         : python-docker
+   - Install date      : [2020-07-20T16:39:14-0500]
+   - Last update date  : [2020-08-21T11:08:07-0500]
+   - How many updates  : 3
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : lmdb
+   - Install date      : [2020-06-04T14:45:56-0500]
+   - Last update date  : [2020-08-14T13:06:01-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libmaxminddb
+   - Install date      : [2020-06-04T14:45:56-0500]
+   - Last update date  : [2020-08-10T11:13:24-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : bind-tools
+   - Install date      : [2020-06-04T14:45:56-0500]
+   - Last update date  : [2020-07-17T11:40:50-0500]
+   - How many updates  : 2
+   - Removal date      : [2020-07-20T09:44:00-0500]
+- Package name         : dnstracer
+   - Install date      : [2020-06-04T15:16:45-0500]
+   - Last update date  : [2020-07-09T16:08:29-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : python-dotenv
+   - Install date      : [2020-07-20T16:39:14-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : man-pages
+   - Install date      : [2020-06-08T13:52:26-0500]
+   - Last update date  : [2020-08-25T10:22:47-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : dhcpcd
+   - Install date      : [2020-06-09T22:35:29-0500]
+   - Last update date  : [2020-09-07T16:27:39-0500]
+   - How many updates  : 3
+   - Removal date      : -
+- Package name         : python-dockerpty
+   - Install date      : [2020-07-20T16:39:14-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-06-10T00:17:02-0500]
+- Package name         : python-requests
+   - Install date      : [2020-06-10T00:20:19-0500]
+   - Last update date  : [2020-06-25T10:24:05-0500]
+   - How many updates  : 1
+   - Removal date      : [2020-06-10T00:18:03-0500]
+- Package name         : vnstat
+   - Install date      : [2020-06-10T00:29:31-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : vim-runtime
+   - Install date      : [2020-06-16T13:34:36-0500]
+   - Last update date  : [2020-09-04T14:42:10-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : gpm
+   - Install date      : [2020-06-16T13:34:36-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : vim
+   - Install date      : [2020-06-16T13:34:36-0500]
+   - Last update date  : [2020-09-04T14:42:10-0500]
+   - How many updates  : 4
+   - Removal date      : -
+- Package name         : python-resolvelib
+   - Install date      : [2020-06-25T10:24:05-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : ruby-reline
+   - Install date      : [2020-06-26T10:20:53-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : ruby-irb
+   - Install date      : [2020-06-26T10:20:53-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : ruby
+   - Install date      : [2020-06-26T10:20:53-0500]
+   - Last update date  : [2020-08-25T10:22:48-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : rubygems
+   - Install date      : [2020-06-26T10:20:53-0500]
+   - Last update date  : [2020-07-29T09:41:28-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : ruby-rdoc
+   - Install date      : [2020-06-26T10:20:53-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : ruby-thor
+   - Install date      : [2020-06-26T10:20:53-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : ruby-erubis
+   - Install date      : [2020-06-26T10:21:06-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : ruby-xdg
+   - Install date      : [2020-06-26T10:21:13-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : tmuxinator
+   - Install date      : [2020-06-26T10:21:19-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : libsodium
+   - Install date      : -
+   - Last update date  : [2020-07-09T16:08:30-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : python-idna
+   - Install date      : -
+   - Last update date  : [2020-07-15T10:55:41-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : bind
+   - Install date      : [2020-07-20T09:44:01-0500]
+   - Last update date  : [2020-08-21T11:08:06-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : python-invoke
+   - Install date      : [2020-07-20T16:36:36-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-08-06T10:28:58-0500]
+- Package name         : fabric
+   - Install date      : [2020-07-20T16:36:36-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-08-06T10:28:58-0500]
+- Package name         : xxhash
+   - Install date      : [2020-07-21T17:13:34-0500]
+   - Last update date  : [2020-07-30T12:24:06-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : rsync
+   - Install date      : [2020-07-21T17:13:34-0500]
+   - Last update date  : [2020-08-10T11:13:24-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : python-yaml
+   - Install date      : -
+   - Last update date  : [2020-07-22T12:23:05-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : fuse-common
+   - Install date      : [2020-07-22T12:43:42-0500]
+   - Last update date  : [2020-08-18T15:34:35-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : fuse3
+   - Install date      : [2020-07-22T12:43:42-0500]
+   - Last update date  : [2020-08-18T15:34:35-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : sshfs
+   - Install date      : [2020-07-22T12:43:42-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : lynx
+   - Install date      : [2020-07-29T14:04:50-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-asn1crypto
+   - Install date      : -
+   - Last update date  : [2020-07-31T10:34:22-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : vulkan-icd-loader
+   - Install date      : [2020-08-03T11:21:54-0500]
+   - Last update date  : [2020-08-26T11:04:33-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : js68
+   - Install date      : [2020-08-05T09:46:24-0500]
+   - Last update date  : [2020-09-01T11:47:23-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : netstat-nat
+   - Install date      : [2020-08-07T12:00:45-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : wavemon
+   - Install date      : [2020-08-07T12:02:29-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : [2020-08-07T12:02:51-0500]
+- Package name         : go-git
+   - Install date      : [2020-08-07T12:48:34-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : terraformer-bin
+   - Install date      : [2020-08-14T10:25:31-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-bcrypt
+   - Install date      : -
+   - Last update date  : [2020-08-17T18:12:18-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : libnsl
+   - Install date      : -
+   - Last update date  : [2020-08-20T11:23:55-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : pacman-contrib
+   - Install date      : [2020-08-20T11:27:43-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : reflector
+   - Install date      : [2020-08-20T11:29:51-0500]
+   - Last update date  : [2020-09-07T16:27:41-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : libxcrypt
+   - Install date      : [2020-08-25T10:22:40-0500]
+   - Last update date  : [2020-08-28T15:39:59-0500]
+   - How many updates  : 1
+   - Removal date      : -
+- Package name         : jansson
+   - Install date      : [2020-08-25T10:22:42-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-attrs
+   - Install date      : -
+   - Last update date  : [2020-09-07T16:27:40-0500]
+   - How many updates  : 2
+   - Removal date      : -
+- Package name         : python-pyopenssl
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-pytz
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-pyrfc3339
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-josepy
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-pbr
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-mock
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-requests-toolbelt
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-acme
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-configargparse
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-configobj
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-future
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-parsedatetime
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-zope-interface
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-zope-proxy
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-zope-deferredimport
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-zope-deprecation
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-zope-event
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-zope-hookable
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-zope-component
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : certbot
+   - Install date      : [2020-09-03T12:00:37-0500]
+   - Last update date  : -
+   - How many updates  : 0
+   - Removal date      : -
+- Package name         : python-texttable
+   - Install date      : -
+   - Last update date  : [2020-09-07T16:27:39-0500]
+   - How many updates  : 1
+   - Removal date      : -
