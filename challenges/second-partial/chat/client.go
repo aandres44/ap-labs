@@ -11,11 +11,25 @@ import (
 	"log"
 	"net"
 	"os"
+	"flag"
 )
 
 //!+
 func main() {
-	conn, err := net.Dial("tcp", "localhost:8000")
+
+	if len(os.Args) < 5 {
+		log.Println("Error: Invalid number of arguments.")
+		log.Println("Usage: ./client -user <username> -server <address:port>")
+		os.Exit(1)
+	}
+
+	usernamePtr := flag.String("user", "User1", "The name of the user")
+	serverInfoPtr := flag.String("server", "localhost:9000", "The address and the port of the server")
+
+	flag.Parse();
+	
+
+	conn, err := net.Dial("tcp", *serverInfoPtr)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -25,6 +39,7 @@ func main() {
 		log.Println("done")
 		done <- struct{}{} // signal the main goroutine
 	}()
+	io.WriteString(conn, *usernamePtr)
 	mustCopy(conn, os.Stdin)
 	conn.Close()
 	<-done // wait for background goroutine to finish
