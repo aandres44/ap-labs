@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"log"
 	"os"
-
+	"flag"
 	"gopl.io/ch5/links"
 )
 
@@ -25,39 +25,80 @@ import (
 // enforce a limit of 20 concurrent requests.
 var tokens = make(chan struct{}, 20)
 
-func crawl(url string) []string {
-	fmt.Println(url)
-	tokens <- struct{}{} // acquire a token
-	list, err := links.Extract(url)
-	<-tokens // release the token
+type Node struct {
+	url string
+	depth int
+}
 
-	if err != nil {
-		log.Print(err)
+func crawl(node Node, fileName string, depth int) []Node {
+	file, err := os.OpenFile(fileName, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+
+	if err != nil{
+		log.Println(err)
 	}
-	return list
+
+	if _, err := file.WriteString(node.url + "\n"); err != nil{
+		log.Println(err)
+	}
+
+	fmt.Println(node.url)
+	file.Close()
+
+	if node.depth < depth {
+		tokens <- struct{}{} // acquire a token
+		list, err := links.Extract(node.url)
+		temp := make([]Node, len(list))
+		for i, url := range list{
+			temp[i] = Node{url: url, depth: node.depth + 1}
+		}
+
+		<-tokens // release the token
+
+		if err != nil {
+			log.Print(err)
+		}
+
+		return temp
+	}
+	
+	return []Node{}
 }
 
 //!-sema
 
 //!+
 func main() {
-	worklist := make(chan []string)
+	if len(os.Args) != 4 {
+		fmt.Println("Error: wrong set of parameters.\n Usage: ./web-crawler -depth=<depth> -results=<results file> <url>")
+		os.Exit(1)
+	}
+
+	worklist := make(chan []Node)
 	var n int // number of pending sends to worklist
+	initialUrl := os.Args[3:]
+	depthPtr := flag.Int("depth", 1, "Depth")
+	fileNamePtr := flag.String("results", "results.txt", "Result file")
+	flag.Parse()
+
+	urls := make([]Node, len(initialUrl))
+	for i, url := range initialUrl {
+		urls[i] = Node{url: url, depth: 0}
+	}
 
 	// Start with the command-line arguments.
 	n++
-	go func() { worklist <- os.Args[1:] }()
+	go func() { worklist <- urls }()
 
 	// Crawl the web concurrently.
 	seen := make(map[string]bool)
 	for ; n > 0; n-- {
 		list := <-worklist
 		for _, link := range list {
-			if !seen[link] {
-				seen[link] = true
+			if !seen[link.url] {
+				seen[link.url] = true
 				n++
-				go func(link string) {
-					worklist <- crawl(link)
+				go func(link Node) {
+					worklist <- crawl(link, *fileNamePtr, *depthPtr)
 				}(link)
 			}
 		}
