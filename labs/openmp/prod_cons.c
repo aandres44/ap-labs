@@ -8,6 +8,7 @@
 */
 #include "omp.h"
 #include <stdio.h>
+#include <stdlib.h>
 
 #define N        10000
 
@@ -40,7 +41,6 @@ double Sum_array(int length, double *a)
 int main()
 {
     double *A, sum, runtime;
-    int flag = 0;
 
     A = (double *)malloc(N*sizeof(double));
 

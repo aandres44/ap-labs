@@ -16,6 +16,7 @@
 */
 #include <stdio.h>
 #include <omp.h>
+#include <stdlib.h>
 
 #define ORDER 1000
 #define AVAL 3.0
